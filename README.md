@@ -55,16 +55,14 @@ Antes de começar, você precisará ter instalado:
 Abra o terminal e execute:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/diogohenriqve/cypress-do-zero-a-nuvem
 ```
 
 Entre na pasta do projeto:
 
 ```bash
-cd SEU-REPOSITORIO
+cd cypress-do-zero-a-nuvem
 ```
-
-> Substitua `SEU-USUARIO` e `SEU-REPOSITORIO` pelo seu usuário e pelo nome do seu repositório no GitHub.
 
 ### 📦 2. Instalar as dependências
 
